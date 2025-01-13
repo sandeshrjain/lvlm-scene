@@ -22,10 +22,11 @@ The dataset comprises the following components:
      - Vehicle-Vehicle Interactions (V2VI)
      - Other Environmental Factors (OEF)
    - A team of human annotators meticulously annotated the dataset, resulting in 2,400 unique question-scene pairs.
-
+   - Annotated responses for the training are saved under the megajson file for the KITTI dataset and nusc_megajson for the NuScenes set.
 3. **Component-wise Descriptive Scene Understanding**:
    - In addition to MCQs, we introduced open-ended questions aligned with the five key aspects. These questions enable a more nuanced assessment of LVLMs' scene understanding capabilities.
    - Traffic safety experts evaluate model-generated responses based on completeness, relevance, and correctness for each aspect, providing qualitative insights into model performance.
+   - Sample responses are provided under the descriptions_train_megajson file.
 
 ### Dataset Structure
 The dataset is organized into:
