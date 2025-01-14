@@ -63,4 +63,15 @@ Researchers and practitioners can leverage this dataset to:
 | NuScenes| GPT-4       | Visual   | 81.39               |
 
 ### Citation
-TBA
+If you find the work helpful, please consider citing.
+
+```bibtex
+@INPROCEEDINGS{10588373,
+  author={Jain, Sandesh and Thapa, Surendrabikram and Chen, Kuan-Ting and Abbott, A. Lynn and Sarkar, Abhijit},
+  booktitle={2024 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={Semantic Understanding of Traffic Scenes with Large Vision Language Models}, 
+  year={2024},
+  pages={1580-1587},
+  keywords={Location awareness;Visualization;Laser radar;Semantics;Transportation;Cameras;Cognition;large vision language models (LVLM);scene analysis;automated perception},
+  doi={10.1109/IV55156.2024.10588373}
+}
